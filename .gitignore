@@ -1,0 +1,5 @@
+.vscode
+
+# System-specific files (Windows, macOS, Linux)
+.DS_Store
+Thumbs.db
